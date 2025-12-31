@@ -49,16 +49,20 @@ This project demonstrates the practical application of **Business Analytics, pre
 
 ## 🧪 How to Run the Project
 1. Clone the repository  
-git clone https://github.com/your-username/ev-adoption-forecasting.git
+   ```bash
+   git clone https://github.com/your-username/ev-adoption-forecasting.git
 
 2. Navigate to the project directory
-cd ev-adoption-forecasting
+   ```bash
+   cd ev-adoption-forecasting
 
 3. Install required libraries
-pip install pandas numpy matplotlib scikit-learn
+   ```bash
+   pip install pandas numpy matplotlib scikit-learn
 
 4. Run the forecasting script
-python ev_forecast.py
+   ```bash
+   python ev_forecast.py
 
 ---
 
